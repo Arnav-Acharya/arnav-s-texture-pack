@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 84,
+    "description": "Arnav's Custom resourcepack!"
+    "supported_formats": {
+      "min_inclusive": 18,
+      "max_inclusive": 88
+    }
+  }
+}
